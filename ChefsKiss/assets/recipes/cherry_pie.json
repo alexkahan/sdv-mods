@@ -7,7 +7,7 @@
                 "{{ModId}}_Cherry_Pie": {
                     "Name": "Cherry Pie",
                     "DisplayName": "Cherry Pie",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A tart and sweet cherry-filled pie.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

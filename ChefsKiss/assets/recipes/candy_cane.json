@@ -7,7 +7,7 @@
                 "{{ModId}}_Candy_Cane": {
                     "Name": "Candy Cane",
                     "DisplayName": "Candy Cane",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A sweet, minty holiday treat.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

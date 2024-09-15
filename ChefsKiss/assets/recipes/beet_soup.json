@@ -7,7 +7,7 @@
                 "{{ModId}}_Beet_Soup": {
                     "Name": "Beet Soup",
                     "DisplayName": "Beet Soup",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A vibrant and earthy beet-based soup.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

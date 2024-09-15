@@ -7,7 +7,7 @@
                 "{{ModId}}_Popcorn": {
                     "Name": "Popcorn",
                     "DisplayName": "Popcorn",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "Light, buttery, and perfectly popped.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

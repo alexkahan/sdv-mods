@@ -7,7 +7,7 @@
                 "{{ModId}}_Apple_Pie": {
                     "Name": "Apple Pie",
                     "DisplayName": "Apple Pie",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "An American classic.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

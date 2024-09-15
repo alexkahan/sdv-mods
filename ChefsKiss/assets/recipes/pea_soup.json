@@ -7,7 +7,7 @@
                 "{{ModId}}_Pea_Soup": {
                     "Name": "Pea Soup",
                     "DisplayName": "Pea Soup",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "Creamy soup made with fresh peas.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

@@ -7,7 +7,7 @@
                 "{{ModId}}_French_Fries": {
                     "Name": "French Fries",
                     "DisplayName": "French Fries",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "Golden and crispy fried potatoes.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

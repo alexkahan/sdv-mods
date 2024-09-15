@@ -7,7 +7,7 @@
                 "{{ModId}}_Sushi": {
                     "Name": "Sushi",
                     "DisplayName": "Sushi",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A delicate roll of fresh fish and rice.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

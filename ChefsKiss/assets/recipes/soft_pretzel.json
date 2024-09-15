@@ -7,7 +7,7 @@
                 "{{ModId}}_Soft_Pretzel": {
                     "Name": "Soft Pretzel",
                     "DisplayName": "Soft Pretzel",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A warm, chewy twist of baked dough.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

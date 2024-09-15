@@ -7,7 +7,7 @@
                 "{{ModId}}_Veggie_Sandwich": {
                     "Name": "Veggie Sandwich",
                     "DisplayName": "Veggie Sandwich",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A fresh sandwich packed with vegetables.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

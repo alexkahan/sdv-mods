@@ -7,7 +7,7 @@
                 "{{ModId}}_Churro": {
                     "Name": "Churro",
                     "DisplayName": "Churro",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A crispy, cinnamon-sugar fried treat.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

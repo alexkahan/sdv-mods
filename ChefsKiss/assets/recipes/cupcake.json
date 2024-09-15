@@ -7,7 +7,7 @@
                 "{{ModId}}_Cupcake": {
                     "Name": "Cupcake",
                     "DisplayName": "Cupcake",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A light and fluffy vanilla delight.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

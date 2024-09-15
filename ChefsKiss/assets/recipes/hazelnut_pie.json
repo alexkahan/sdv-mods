@@ -7,7 +7,7 @@
                 "{{ModId}}_Hazelnut_Pie": {
                     "Name": "Hazelnut Pie",
                     "DisplayName": "Hazelnut Pie",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A rich and nutty hazelnut pie.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

@@ -7,7 +7,7 @@
                 "{{ModId}}_Burrito": {
                     "Name": "Burrito",
                     "DisplayName": "Burrito",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "A hearty burrito packed with veggies.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

@@ -7,7 +7,7 @@
                 "{{ModId}}_Falafel": {
                     "Name": "Falafel",
                     "DisplayName": "Falafel",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "Crispy fritter balls.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

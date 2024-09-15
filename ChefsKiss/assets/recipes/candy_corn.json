@@ -7,7 +7,7 @@
                 "{{ModId}}_Candy_Corn": {
                     "Name": "Candy Corn",
                     "DisplayName": "Candy Corn",
-                    "Description": "Recipe Description Placeholder",
+                    "Description": "Sweet and colorful corn-shaped candy.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,
