@@ -1,0 +1,11 @@
+{
+  "Name": "Chef's Kiss",
+  "Author": "kahanscious",
+  "Version": "1.0.0",
+  "Description": "Just adding a few recipes.",
+  "UniqueID": "kahanscious.ChefsKiss",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

@@ -1,0 +1,80 @@
+{
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/apple_pie.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/beet_soup.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/burrito.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/candy_cane.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/candy_corn.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/cappuccino.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/cherry_pie.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/churro.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/cupcake.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/falafel.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/french_fries.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/grilled_cheese.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/hazelnut_pie.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/pea_soup.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/popcorn.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/soft_pretzel.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/strawberry_cheesecake.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/sushi.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/recipes/veggie_sandwich.json"
+        }
+    ]
+}

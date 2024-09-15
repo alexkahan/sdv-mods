@@ -1,0 +1,18 @@
+{
+    "Format": "2.3.0",
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "assets/objects/loader.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/objects/data.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/{{ModId}}/Recipes",
+            "FromFile": "assets/sprites/sprite.png"
+        }
+    ]
+}
