@@ -44,7 +44,10 @@
                     "ExcludeFromFishingCollection": false,
                     "ExcludeFromShippingCollection": false,
                     "ExcludeFromRandomSale": false,
-                    "ContextTags": null,
+                    "ContextTags": [
+                        "food_bakery",
+                        "color_yellow"
+                    ],
                     "CustomFields": null
                 }
             }

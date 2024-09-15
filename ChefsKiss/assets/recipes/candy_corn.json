@@ -44,7 +44,11 @@
                     "ExcludeFromFishingCollection": false,
                     "ExcludeFromShippingCollection": false,
                     "ExcludeFromRandomSale": false,
-                    "ContextTags": null,
+                    "ContextTags": [
+                        "color_yellow",
+                        "color_orange",
+                        "color_white"
+                    ],
                     "CustomFields": null
                 }
             }
