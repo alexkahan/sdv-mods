@@ -4,10 +4,10 @@
             "Action": "EditData",
             "Target": "Data/Objects",
             "Entries": {
-                "{{ModId}}_Pea_Soup": {
-                    "Name": "Pea Soup",
-                    "DisplayName": "Pea Soup",
-                    "Description": "Creamy soup made with fresh peas.",
+                "{{ModId}}_Green_Bean_Soup": {
+                    "Name": "Green Been Soup",
+                    "DisplayName": "Green Been Soup",
+                    "Description": "Comforting soup with tender green beans.",
                     "Type": "Cooking",
                     "Category": -7,
                     "Price": 500,

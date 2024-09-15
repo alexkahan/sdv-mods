@@ -5,24 +5,24 @@
             "Target": "Data/CookingRecipes",
             "Entries": {
                 "ApplePie": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Apple_Pie/default/",
-                "BeetSoup": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Beet_Soup/default/",
-                "Burrito": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Burrito/default/",
-                "CandyCane": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Candy_Cane/default/",
-                "CandyCorn": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Candy_Corn/default/",
+                "BeetSoup": "284 2 248 1/10 10/{{ModId}}_Beet_Soup/default/",
+                "Burrito": "229 1 424 1 256 1 260 1 78 1 270 1 266 1 423 1/10 10/{{ModId}}_Burrito/default/",
+                "CandyCane": "245 1/10 10/{{ModId}}_Candy_Cane/default/",
+                "CandyCorn": "245 1 340 1/10 10/{{ModId}}_Candy_Corn/default/",
                 "Cappuccino": "395 1 -6 1 245 1/10 10/{{ModId}}_Cappuccino/default/",
-                "CherryPie": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Cherry_Pie/default/",
-                "Churro": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Churro/default/",
-                "Cupcake": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Cupcake/default/",
-                "Falafel": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Falafel/default/",
-                "FrenchFries": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_French_Fries/default/",
+                "CherryPie": "638 1 246 1 245 1/10 10/{{ModId}}_Cherry_Pie/default/",
+                "Churro": "246 1 245 1 -5 1/10 10/{{ModId}}_Churro/default/",
+                "Cupcake": "246 1 245 1 -5 1/10 10/{{ModId}}_Cupcake/default/",
+                "Falafel": "246 1 247 1 245 1 248 1 431 1/10 10/{{ModId}}_Falafel/default/",
+                "GreenBeanSoup": "188 2 248 1 247 1/10 10/{{ModId}}_Pea_Soup/default/",
+                "FrenchFries": "192 2 247 1/10 10/{{ModId}}_French_Fries/default/",
                 "GrilledCheese": "216 1 424 1/10 10/{{ModId}}_Grilled_Cheese/default/",
                 "HazelnutPie": "408 1 246 1 -6 1 245 1/10 10/{{ModId}}_Hazelnut_Pie/default/",
-                "PeaSoup": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Pea_Soup/default/",
-                "Popcorn": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Popcorn/default/",
+                "Popcorn": "270 2/10 10/{{ModId}}_Popcorn/default/",
                 "SoftPretzel": "246 1/10 10/{{ModId}}_Soft_Pretzel/default/",
                 "StrawberryCheesecake": "184 1 -5 1 400 1 246 1/10 10/{{ModId}}_Strawberry_Cheesecake/default/",
                 "Sushi": "-4 1 152 1 423 1/10 10/{{ModId}}_Sushi/default/",
-                "VeggieSandwich": "613 1 246 1 -6 1 245 1/10 10/{{ModId}}_Veggie_Sandwich/default/"
+                "VeggieSandwich": "216 1 306 1 424 1 256 1 260 1 Carrot 1 SummerSquash 1 266 1 20 1/10 10/{{ModId}}_Veggie_Sandwich/default/"
             }
         }
     ]

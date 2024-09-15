@@ -46,15 +46,15 @@
         },
         {
             "Action": "Include",
+            "FromFile": "assets/recipes/green_bean_soup.json"
+        },
+        {
+            "Action": "Include",
             "FromFile": "assets/recipes/grilled_cheese.json"
         },
         {
             "Action": "Include",
             "FromFile": "assets/recipes/hazelnut_pie.json"
-        },
-        {
-            "Action": "Include",
-            "FromFile": "assets/recipes/pea_soup.json"
         },
         {
             "Action": "Include",
