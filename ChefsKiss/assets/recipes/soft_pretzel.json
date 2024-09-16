@@ -10,10 +10,10 @@
                     "Description": "A warm, chewy twist of baked dough.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 200,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 5,
-                    "Edibility": 75,
+                    "Edibility": 25,
                     "IsDrink": false,
                     "Buffs": [
                         {

@@ -10,10 +10,10 @@
                     "Description": "Comforting soup with tender green beans.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 200,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 15,
-                    "Edibility": 75,
+                    "Edibility": 50,
                     "IsDrink": false,
                     "Buffs": [
                         {

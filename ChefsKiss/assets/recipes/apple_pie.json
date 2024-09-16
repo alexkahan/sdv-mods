@@ -10,10 +10,10 @@
                     "Description": "An American classic.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 300,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 3,
-                    "Edibility": 75,
+                    "Edibility": 50,
                     "IsDrink": false,
                     "Buffs": [
                         {

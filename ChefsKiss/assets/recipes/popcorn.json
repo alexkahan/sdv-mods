@@ -10,10 +10,10 @@
                     "Description": "Light, buttery, and perfectly popped.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 150,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 16,
-                    "Edibility": 75,
+                    "Edibility": 15,
                     "IsDrink": false,
                     "Buffs": [
                         {

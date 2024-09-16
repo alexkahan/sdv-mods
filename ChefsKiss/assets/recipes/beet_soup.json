@@ -13,7 +13,7 @@
                     "Price": 500,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 7,
-                    "Edibility": 75,
+                    "Edibility": 60,
                     "IsDrink": false,
                     "Buffs": [
                         {

@@ -13,7 +13,7 @@
                     "Price": 500,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 6,
-                    "Edibility": 75,
+                    "Edibility": 80,
                     "IsDrink": false,
                     "Buffs": [
                         {
@@ -21,12 +21,12 @@
                             "BuffId": null,
                             "IconTexture": null,
                             "IconSpriteIndex": 0,
-                            "Duration": 0,
+                            "Duration": 180,
                             "IsDebuff": false,
                             "GlowColor": null,
                             "CustomAttributes": {
                                 "FarmingLevel": 0.0,
-                                "FishingLevel": 0.0,
+                                "FishingLevel": 1.0,
                                 "MiningLevel": 0.0,
                                 "LuckLevel": 0.0,
                                 "ForagingLevel": 0.0,

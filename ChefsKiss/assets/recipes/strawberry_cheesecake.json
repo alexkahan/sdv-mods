@@ -10,10 +10,10 @@
                     "Description": "Fruity take on a creamy dessert.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 300,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 1,
-                    "Edibility": 75,
+                    "Edibility": 40,
                     "IsDrink": false,
                     "Buffs": [
                         {

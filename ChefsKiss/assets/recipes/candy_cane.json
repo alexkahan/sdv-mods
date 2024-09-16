@@ -10,10 +10,10 @@
                     "Description": "A sweet, minty holiday treat.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 50,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 9,
-                    "Edibility": 75,
+                    "Edibility": 5,
                     "IsDrink": false,
                     "Buffs": [
                         {

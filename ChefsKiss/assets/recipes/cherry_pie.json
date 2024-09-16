@@ -10,10 +10,10 @@
                     "Description": "A tart and sweet cherry-filled pie.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 300,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 11,
-                    "Edibility": 75,
+                    "Edibility": 60,
                     "IsDrink": false,
                     "Buffs": [
                         {

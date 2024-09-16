@@ -10,10 +10,10 @@
                     "Description": "A crispy, cinnamon-sugar fried treat.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 100,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 12,
-                    "Edibility": 75,
+                    "Edibility": 15,
                     "IsDrink": false,
                     "Buffs": [
                         {

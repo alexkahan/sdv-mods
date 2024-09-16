@@ -10,10 +10,10 @@
                     "Description": "Golden and crispy fried potatoes.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 150,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 18,
-                    "Edibility": 75,
+                    "Edibility": 25,
                     "IsDrink": false,
                     "Buffs": [
                         {

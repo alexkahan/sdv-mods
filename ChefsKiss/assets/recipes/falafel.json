@@ -10,7 +10,7 @@
                     "Description": "Crispy fritter balls.",
                     "Type": "Cooking",
                     "Category": -7,
-                    "Price": 500,
+                    "Price": 250,
                     "Texture": "Mods/{{ModId}}/Recipes",
                     "SpriteIndex": 14,
                     "Edibility": 75,
