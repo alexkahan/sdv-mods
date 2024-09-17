@@ -1,0 +1,9 @@
+{
+  "Name": "Recipe Organizer",
+  "Author": "kahanscious",
+  "Version": "1.0.0",
+  "Description": "Alphabetize the recipes in your kitchen.",
+  "EntryDll": "RecipeOrganizer.dll",
+  "UniqueID": "kahanscious.RecipeOrganizer",
+  "UpdateKeys": []
+}
